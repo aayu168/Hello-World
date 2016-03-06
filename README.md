@@ -1,2 +1,2 @@
 # Hello-World
-My GitHub repository
+My GitHub Master repository
